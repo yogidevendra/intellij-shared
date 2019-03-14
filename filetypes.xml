@@ -19,6 +19,7 @@
       <mapping ext="pp" type="PLAIN_TEXT" />
       <mapping pattern="remove_duplicate_participants_with_contact.sql" type="SQL" />
       <mapping ext="hql" type="SQL" />
+      <mapping pattern="ag_duplicates_unclustered.yaml" type="YAML" />
     </extensionMap>
   </component>
 </application>
