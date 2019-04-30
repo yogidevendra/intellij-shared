@@ -20,5 +20,6 @@
     <mask>*.yaml</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
