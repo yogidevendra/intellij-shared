@@ -6,11 +6,11 @@
   </component>
   <component name="BitbucketServerRegistry">
     <instances>
-      <instance baseUri="https://git.rgoffice.net:443/" />
+      <instance uuid="abd12cd5-0c4f-3b0c-aa36-c56dd43a6510" baseUri="https://git.rgoffice.net:443/" />
     </instances>
     <lookup>
       <record scheme="ssh" hostname="git.rgoffice.net" port="22" path="/" uuid="abd12cd5-0c4f-3b0c-aa36-c56dd43a6510" />
     </lookup>
   </component>
-  <component name="Instance" id="1aef6470-9e49-4bcd-8002-67a4a4df8b3c" version="6.1" />
+  <component name="Instance" id="1aef6470-9e49-4bcd-8002-67a4a4df8b3c" version="7.3" />
 </application>
