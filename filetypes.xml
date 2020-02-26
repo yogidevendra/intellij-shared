@@ -11,6 +11,7 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="avsc" type="JSON" />
       <mapping pattern="abc" type="PLAIN_TEXT" />
       <mapping pattern="old_blacklisted_grant_opportunity_recommendations.sql" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
